@@ -1,3 +1,7 @@
+.idea
+.impl
+.gitattributes
+
 # Compiled class file
 *.class
 
